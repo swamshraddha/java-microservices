@@ -1,0 +1,5 @@
+com\microservice\customers\lib\v1\common\ApiError.class
+com\microservice\customers\lib\v1\common\BaseType.class
+com\microservice\customers\lib\v1\CustomerStatus.class
+com\microservice\customers\lib\v1\response\CustomerList.class
+com\microservice\customers\lib\v1\Customer.class
