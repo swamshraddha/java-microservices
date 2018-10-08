@@ -1,0 +1,6 @@
+com\microservice\orders\lib\v1\common\ApiError.class
+com\microservice\orders\lib\v1\common\OrderServiceErrorCode.class
+com\microservice\orders\lib\v1\common\BaseType.class
+com\microservice\orders\lib\v1\Order.class
+com\microservice\orders\lib\v1\OrderItem.class
+com\microservice\orders\lib\v1\OrderStatus.class
